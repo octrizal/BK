@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../poli_bk-main/assets"
+		},
+		{
+			"path": "../../poli_bk-main/components"
+		},
+		{
+			"path": "../../poli_bk-main/config"
+		},
+		{
+			"path": "../../poli_bk-main/css"
+		},
+		{
+			"path": "../../poli_bk-main/database"
+		},
+		{
+			"path": "../../poli_bk-main/pages"
+		}
+	],
+	"settings": {}
+}
